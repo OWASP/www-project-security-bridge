@@ -1,11 +1,12 @@
 # Security Bridge
 
-Project deliverable
+## Project deliverable
+
 2 main deliverables:
 
-1. "Ressource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
+- "Ressource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
 
-2. "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
+- "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
 
 What are some things you do that help you in a stressful situation?
 
