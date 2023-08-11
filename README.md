@@ -1,16 +1,14 @@
 # Security Bridge
 
-## Project deliverable
-
-2 main deliverables:
+## Purpose of Security Bridge:
 
 - "Ressource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
 
 - "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
 
-What are some things you do that help you in a stressful situation?
+  - What are some things you do that help you in a stressful situation?
 
-Share some of the things you do that support your mental health & wellbeing.
+  - Share some of the things you do that support your mental health & wellbeing.
 
 What do you to wind down at the end of your day?
 
