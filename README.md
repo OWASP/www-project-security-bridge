@@ -4,7 +4,7 @@
 
 "Security Bridge" is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we are facing that are non-technical.
 
-- "Ressource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
+- "Resource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
 
 - "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
 
