@@ -10,7 +10,7 @@
 
   - Share some of the things you do that support your mental health & wellbeing.
 
-What do you to wind down at the end of your day?
+  - What do you to wind down at the end of your day?
 
 Sharing stories will help to build up resiliency individually and as a community. 
 
