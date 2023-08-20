@@ -5,15 +5,13 @@ title: OWASP Security Bridge
 tags: resilience, mental health,
 level: 2
 type: documentation
-pitch: Security Bridge is aiming to talk and learn about our daily challenges we are facing that are non-technical.
+pitch: Security Bridge is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we are facing that are non-technical.
 
 ---
 
 <br>
 
-## Security Bridge
-
-### Purpose of Security Bridge:
+## Purpose of Security Bridge:
 
 "Security Bridge" is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we are facing that are non-technical.
 
