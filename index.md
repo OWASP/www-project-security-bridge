@@ -9,10 +9,11 @@ pitch: Security Bridge is aiming to talk and learn about our daily challenges we
 
 ---
 
+<br>
 
-# Security Bridge
+## Security Bridge
 
-## Purpose of Security Bridge:
+### Purpose of Security Bridge:
 
 "Security Bridge" is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we are facing that are non-technical.
 
@@ -20,11 +21,11 @@ pitch: Security Bridge is aiming to talk and learn about our daily challenges we
 
 - "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
 
-  - What are some things you do that help you in a stressful situation?
+  1. What are some things you do that help you in a stressful situation?
 
-  - Share some of the things you do that support your mental health & wellbeing.
+  2. Share some of the things you do that support your mental health & wellbeing.
 
-  - What do you to wind down at the end of your day?
+  3. What do you to wind down at the end of your day?
 
 Sharing stories will help to build up resiliency individually and as a community. 
 
