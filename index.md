@@ -2,21 +2,51 @@
 
 layout: col-sidebar
 title: OWASP Security Bridge
-tags: example-tag
+tags: resilience, mental health,
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: documentation
+pitch: "Security Bridge" is aiming to talk and learn about our daily challenges we are facing that are non-technical.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+# Security Bridge
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Purpose of Security Bridge:
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+"Security Bridge" is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we are facing that are non-technical.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
+- "Resource Hub", which are markdown files in the Github repo that offer training materials and tools for employees to easily access and share with their peers and teams. The focus is to raise awareness and to equip professionals in the Application Security industry (and beyond) with the necessary knowledge, tools & guidance to help prevent burnout & build greater resilience; essential to overall mental health & wellbeing. 
 
-type: code, tool, documentation, or other
+- "Online community space" by using Github Discussions to have a forum for professionals of our industry to exchange about 3 main areas focusing on wellbeing and resilience (as a start):
+
+  - What are some things you do that help you in a stressful situation?
+
+  - Share some of the things you do that support your mental health & wellbeing.
+
+  - What do you to wind down at the end of your day?
+
+Sharing stories will help to build up resiliency individually and as a community. 
+
+
+The main goal is: "Connecting Cyber Security Professional to nurture a resilient cyber security community."
+
+There are 4 areas that should be covered by this project:
+
+1. Understand & Identify Stress (Mental Overwhelm) & Burnout 
+2. Tactics, Techniques & Procedures (TTPs) for Managing Burnout & Navigating Stress
+3. Tactics, Techniques & Procedures (TTPs) for Building Mental Resilience and Positive Mindset
+4. Online Community Space for resources and a space to share stories
+
+TTPs are being used in this project in a similar fashion as the MITRE Att&ck to help cyber security professionals relate to have an execution path that they can apply to their daily lives. 
+
+## Project roadmap
+
+After approval of the project the Github Discussion is being started with the topics mentioned above. 
+
+We will populate background information to the project to raise awareness and build the TTPs gradually.
+
+## Additional comments
+License should be "Creative Commons Attribution-ShareAlike 4.0 International".
+
+This project is a collaboration between Tuyen Do and Sven Schleier.
