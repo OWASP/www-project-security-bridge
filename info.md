@@ -1,7 +1,5 @@
 ### Security Bridge Information
 
-* [Incubator Project](#)
-
 ### Project Information
 
 - <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
