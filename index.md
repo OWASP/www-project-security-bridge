@@ -5,7 +5,7 @@ title: OWASP Security Bridge
 tags: resilience, mental health,
 level: 2
 type: documentation
-pitch: "Security Bridge" is aiming to talk and learn about our daily challenges we are facing that are non-technical.
+pitch: Security Bridge is aiming to talk and learn about our daily challenges we are facing that are non-technical.
 
 ---
 
