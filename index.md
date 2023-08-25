@@ -28,6 +28,7 @@ pitch: Security Bridge is aiming to build bridges in our community to not only t
 Sharing stories will help to build up resiliency individually and as a community. 
 
 
+
 The main goal is: "Connecting Cyber Security Professional to nurture a resilient cyber security community."
 
 There are 4 areas that should be covered by this project:
