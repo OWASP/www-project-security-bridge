@@ -1,6 +1,6 @@
-### Security Bridge Information
+### Security Bridge
 
-### Project Information
+#### Project Information
 
 - <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
   <span style="font-size: 1.3em;">Incubator Project</span>
@@ -15,14 +15,13 @@
 - <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 - <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/security-bridge)
 
 ### More
 
 - [🗣️ Talks](TBD)
-- [💬 Questions/Feedback?](https://github.com/OWASP/owasp-mastg/discussions)
+- [💬 Questions/Feedback?](https://github.com/OWASP/security-bridge/discussions)
 - [Code of Conduct](TBD)
 - [Contributing](TBD)
 
