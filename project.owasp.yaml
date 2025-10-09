@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Tuyen Do
+    email: tuyen.do@owasp.org
+  - name: Sven Schleier
+    email: sven.schleier@owasp.org
+    github: sushi2k
+level: 2
+name: OWASP Security Bridge
+pitch: Security Bridge is aiming to build bridges in our community to not only talk and learn about application security but also the daily challenges we
+  are facing that are non-technical.
+repositories:
+  - name: www-project-security-bridge
+    url: https://github.com/OWASP/www-project-security-bridge
+    description: OWASP Foundation Web Repository
+  - name: security-bridge
+    url: https://github.com/OWASP/security-bridge
+tags:
+  - resilience
+  - mental health
+  - custom-tag-1
+type: documentation
+website: https://owasp.org/www-project-security-bridge
